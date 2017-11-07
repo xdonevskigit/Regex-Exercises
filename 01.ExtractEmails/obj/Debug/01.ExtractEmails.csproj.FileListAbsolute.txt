@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\Regex-Exercises\Regex-Exercises\bin\Debug\Regex-Exercises.exe.config
+C:\Users\Icaka\source\repos\Regex-Exercises\Regex-Exercises\bin\Debug\Regex-Exercises.exe
+C:\Users\Icaka\source\repos\Regex-Exercises\Regex-Exercises\bin\Debug\Regex-Exercises.pdb
+C:\Users\Icaka\source\repos\Regex-Exercises\Regex-Exercises\obj\Debug\01.ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\Regex-Exercises\Regex-Exercises\obj\Debug\01.ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\Regex-Exercises\Regex-Exercises\obj\Debug\Regex-Exercises.exe
+C:\Users\Icaka\source\repos\Regex-Exercises\Regex-Exercises\obj\Debug\Regex-Exercises.pdb
